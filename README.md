@@ -23,7 +23,7 @@
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone https://github.com/yourusername/ssti-scanner.git
+    git clone https://github.com/eye-fox/SSTI_Scanner.git
     cd ssti-scanner
     ```
 
